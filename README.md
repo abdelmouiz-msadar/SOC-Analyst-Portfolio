@@ -5,7 +5,6 @@ Junior SOC Analyst with hands-on experience in security monitoring, log analysis
 
 Experienced with SOC workflows including alert triage, investigation, documentation, and escalation.
 
-
 ## 🧠 Technical Skills
 - Security Monitoring & Alert Triage  
 - Incident Response & Escalation  
